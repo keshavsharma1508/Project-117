@@ -1,0 +1,16 @@
+body{
+    background-color: cyan ;
+}
+#score {
+    font-size: 40px;
+    margin-left: 20px;
+
+}
+#timer {
+    font-size: 40px;
+    float: right;
+    margin-right:20px ; 
+}
+#sketch_name {
+    color: darkblue;
+}
